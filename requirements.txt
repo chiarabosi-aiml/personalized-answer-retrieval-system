@@ -1,4 +1,3 @@
-# Indicative only; the original notebook installs some packages itself.
 pandas
 numpy
 scikit-learn
