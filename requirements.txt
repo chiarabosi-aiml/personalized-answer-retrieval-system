@@ -1,0 +1,13 @@
+# Indicative only; the original notebook installs some packages itself.
+pandas
+numpy
+scikit-learn
+nltk
+python-terrier==0.12.1
+sentence-transformers
+transformers
+torch
+accelerate
+gdown
+ipdb
+matplotlib

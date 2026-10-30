@@ -1,0 +1,11 @@
+# Downloaded data, indices and model files
+answer_retrieval/
+*.zip
+se-pqa/
+*.pt
+*.pth
+*.bin
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
+.env
